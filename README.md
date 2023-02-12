@@ -1,5 +1,6 @@
 # PopProj
-Population projection for Estonia
+
+Population projection with dynamic fertility
 
 Cohort-component method of population projection is a deterministic way to predict how the age composition and size of population change as time passes. Since future fertility, migration flows, and mortality rates are unknown, projections employ scenarios. For example, projecting the population of a low fertility country, one could expect that the future fertility stays the same, increases over the projection period, or even declines.
 
