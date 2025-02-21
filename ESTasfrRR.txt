@@ -1,4 +1,3 @@
-Estonia, Period fertility rates by calendar year and age (Lexis squares, age in completed years (ACY))
 Last modified: 25/02/2021
 Year    Age        ASFR
 1959     12-    0.00000
